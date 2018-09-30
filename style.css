@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+
+.jumbotron {
+    width: 75%;
+    margin: 60px auto;
+    padding: 50px;
+}
+
+.message {
+    height: 200px;
+    padding: 10px auto;
+}
